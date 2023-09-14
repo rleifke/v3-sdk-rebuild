@@ -6,7 +6,7 @@ export default defineConfig({
   contracts: [],
   plugins: [
     foundry({
-      project: "node_modules/dry-powder/",
+      project: "node_modules/v3-sdk-rebuild/",
     }),
   ],
 });
